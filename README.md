@@ -13,11 +13,11 @@ Mi pasión dentro de la informática es el desarrollo web y la ciberseguridad. P
 <img align="left" alt="CSS3" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Node.js" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-
 <br><br>
-<img align"left" alt="Flask" width="30px" style="margin: 10px;"
+
+<img align="left" alt="Flask" width="30px" style="margin: 10px;"
 src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" />
-<img align"left" alt="Flask" width="30px" style="margin: 10px;"
+<img align="left" alt="Flask" width="30px" style="margin: 10px;"
 src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
 <img align="left" alt="Terminal" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Markdown" width="30px" style="margin: 10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
