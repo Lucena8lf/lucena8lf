@@ -1,5 +1,5 @@
 ## 🙇🏻‍♂️ Sobre mí
-Hola, me llamo Fernando! Soy estudiante de ingeniería informática en la Universidad de Córdoba, España.
+Hola, me llamo Fernando! Soy graduado en Ingeniera Informática por la Universidad de Córdoba, España.
 
 Mi pasión dentro de la informática es el desarrollo web y la ciberseguridad. Por lo que aquí subiré tantos proyectos personales como universitarios relacionados con ello.
 
